@@ -1,1 +1,1 @@
-FROM boxrealalt/index-server:latest
+FROM boxrealalt/index-server:latest-aria2
